@@ -1,3 +1,3 @@
 # git_test
 
-Hello Odin!
+A reminder of what has been forgotten
